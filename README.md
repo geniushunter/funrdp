@@ -1,6 +1,6 @@
 # WINRDP
 
-WELLCOME TO DEVIL HACKS
+WELLCOME TO   GENIUSDP
 How to use 
 
 Just Fork this Repository, Go to Actions tab, Select the Windows-CRD workflow. Then select Run Workflow fill the following data in CRD Code and your Pin in the fields. After that, Press Start.
@@ -9,7 +9,7 @@ Input the following code in the fields.
 
 Get the Windows (Powershell) command from here:
 
-https://file.technicalatg.com/K5dr
+https://remotedesktop.google.com/headless
 
 Enter you Six digit Pin code to Login
 
